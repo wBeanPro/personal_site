@@ -46,7 +46,9 @@ body {
 
 img {
   max-width: 100%; }
-
+.name_img {
+  margin-bottom: 12px;
+}
 a:focus,
 input:focus,
 textarea:focus,
